@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "GoodLake"
 ---
 
 <div id="mc_embed_shell" class="">
