@@ -21,7 +21,7 @@ title: "GoodLake"
       </div>
       <div class="optionalParent">
         <div class="clear foot">
-          <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="bg-gray-900 text-white rounded p-3" value="Find out when" style="margin:0;">
+          <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="bg-gray-900 text-white rounded p-3 cursor-pointer" value="Find out when" style="margin:0;">
         </div>
       </div>
     </div>
