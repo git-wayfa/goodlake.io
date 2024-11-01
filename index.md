@@ -9,7 +9,7 @@ title: "GoodLake"
     <div id="mc_embed_signup_scroll">
       <div class="mb-8">
         <label for="mce-EMAIL" class="block mb-2 text-lg">Email Address</label>
-        <input type="email" name="EMAIL" class="block required email bg-white bg-opacity-25 p-2 rounded border border-white" id="mce-EMAIL" required="" value="">
+        <input style="width: 250px;" type="email" name="EMAIL" class="block required email bg-white bg-opacity-25 p-2 rounded border border-white" id="mce-EMAIL" required="" value="">
       </div>
       <div hidden=""><input type="hidden" name="tags" value="7060932"></div>
       <div id="mce-responses" class="">
