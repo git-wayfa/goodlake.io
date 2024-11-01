@@ -5,7 +5,7 @@ title: "GoodLake"
 
 <div id="mc_embed_shell" class="">
 <div id="" class="lexend">
-  <form action="https://goodlake.us14.list-manage.com/subscribe/post?u=881f93557f333d7ba36cd796a&amp;id=874552f13b&amp;f_id=007899e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mx-0 my-0" target="_blank">
+  <form action="https://goodlake.us10.list-manage.com/subscribe/post?u=1baf868f81653e999b02df594&amp;id=274a943fe0&amp;f_id=0064fbe3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
     <div id="mc_embed_signup_scroll">
       <div class="mb-8">
         <label for="mce-EMAIL" class="block mb-2 text-lg">Email Address</label>
