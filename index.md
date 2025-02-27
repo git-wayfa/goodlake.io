@@ -3,13 +3,13 @@ layout: default
 title: "GoodLake"
 ---
 
-<div id="mc_embed_shell" class="">
+<div id="mc_embed_shell" style="text-align: center;" class="">
 <div id="" class="lexend">
   <form action="https://goodlake.us10.list-manage.com/subscribe/post?u=1baf868f81653e999b02df594&amp;id=274a943fe0&amp;f_id=0064fbe3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
     <div id="mc_embed_signup_scroll">
       <div class="mb-8">
         <label for="mce-EMAIL" class="block mb-2 text-lg">Email Address</label>
-        <input style="width: 250px;" type="email" name="EMAIL" class="block required email bg-white bg-opacity-25 p-2 rounded border border-white" id="mce-EMAIL" required="" value="">
+        <input style="width: 250px;" type="email" name="EMAIL" placeholder="you@email.com" class="block required email bg-white bg-opacity-25 p-2 rounded border border-white" id="mce-EMAIL" required="" value="">
       </div>
       <div hidden=""><input type="hidden" name="tags" value="7060932"></div>
       <div id="mce-responses" class="">
@@ -21,7 +21,7 @@ title: "GoodLake"
       </div>
       <div class="optionalParent">
         <div class="clear foot">
-          <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="text-black bg-white rounded p-3 cursor-pointer" value="Find out when" style="margin:0;">
+          <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="text-black bg-white rounded p-3 cursor-pointer" value="Subscribe" style="margin:0;">
         </div>
       </div>
     </div>
